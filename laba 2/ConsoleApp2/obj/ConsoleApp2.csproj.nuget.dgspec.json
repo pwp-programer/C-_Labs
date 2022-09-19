@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bogda\\OneDrive\\Рабочий стол\\ConsoleApp2\\ConsoleApp2.csproj": {}
+    "C:\\github\\Csharp_Labs\\laba 2\\ConsoleApp2\\ConsoleApp2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bogda\\OneDrive\\Рабочий стол\\ConsoleApp2\\ConsoleApp2.csproj": {
+    "C:\\github\\Csharp_Labs\\laba 2\\ConsoleApp2\\ConsoleApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bogda\\OneDrive\\Рабочий стол\\ConsoleApp2\\ConsoleApp2.csproj",
+        "projectUniqueName": "C:\\github\\Csharp_Labs\\laba 2\\ConsoleApp2\\ConsoleApp2.csproj",
         "projectName": "ConsoleApp2",
-        "projectPath": "C:\\Users\\Bogda\\OneDrive\\Рабочий стол\\ConsoleApp2\\ConsoleApp2.csproj",
+        "projectPath": "C:\\github\\Csharp_Labs\\laba 2\\ConsoleApp2\\ConsoleApp2.csproj",
         "packagesPath": "C:\\Users\\Bogda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bogda\\OneDrive\\Рабочий стол\\ConsoleApp2\\obj\\",
+        "outputPath": "C:\\github\\Csharp_Labs\\laba 2\\ConsoleApp2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
