@@ -4,25 +4,25 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Введите a: ");
+            Console.WriteLine("Введите число a: ");
             int a = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Введите b: ");
+            Console.WriteLine("Введите число b: ");
             int b = int.Parse(Console.ReadLine());
 
             if (a < b)
             {
-                for (int i = a; i < b-1; i++)
-			    {
-                    Console.WriteLine($"Ваше число: {i+1}");
-			    }
+                for (int i = a; i < b; i++) 
+                {
+                    Console.WriteLine($"Ваше число: {i+1}"); 
+                }
             }
-            if (b < a)
+            else if (b < a)
             {
-                for (int q = a; q > b+1; q--)
-			    {
-                    Console.WriteLine($"Ваше число: {q-1}");
-			    }
+                for (int q = a; q > b; q--) 
+                {
+                    Console.WriteLine($"Ваше число: {q-1}"); 
+                }
             }
             Console.ReadKey();
         }

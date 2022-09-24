@@ -1,0 +1,15 @@
+C:\github\Csharp_Labs\laba 2\ex_4\bin\Debug\net6.0\ex_4.exe
+C:\github\Csharp_Labs\laba 2\ex_4\bin\Debug\net6.0\ex_4.deps.json
+C:\github\Csharp_Labs\laba 2\ex_4\bin\Debug\net6.0\ex_4.runtimeconfig.json
+C:\github\Csharp_Labs\laba 2\ex_4\bin\Debug\net6.0\ex_4.dll
+C:\github\Csharp_Labs\laba 2\ex_4\bin\Debug\net6.0\ex_4.pdb
+C:\github\Csharp_Labs\laba 2\ex_4\obj\Debug\net6.0\ex_4.csproj.AssemblyReference.cache
+C:\github\Csharp_Labs\laba 2\ex_4\obj\Debug\net6.0\ex_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Csharp_Labs\laba 2\ex_4\obj\Debug\net6.0\ex_4.AssemblyInfoInputs.cache
+C:\github\Csharp_Labs\laba 2\ex_4\obj\Debug\net6.0\ex_4.AssemblyInfo.cs
+C:\github\Csharp_Labs\laba 2\ex_4\obj\Debug\net6.0\ex_4.csproj.CoreCompileInputs.cache
+C:\github\Csharp_Labs\laba 2\ex_4\obj\Debug\net6.0\ex_4.dll
+C:\github\Csharp_Labs\laba 2\ex_4\obj\Debug\net6.0\refint\ex_4.dll
+C:\github\Csharp_Labs\laba 2\ex_4\obj\Debug\net6.0\ex_4.pdb
+C:\github\Csharp_Labs\laba 2\ex_4\obj\Debug\net6.0\ex_4.genruntimeconfig.cache
+C:\github\Csharp_Labs\laba 2\ex_4\obj\Debug\net6.0\ref\ex_4.dll
