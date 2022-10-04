@@ -1,0 +1,15 @@
+C:\github\Csharp_Labs\laba 4\ex4\obj\Debug\net6.0\ex4.csproj.AssemblyReference.cache
+C:\github\Csharp_Labs\laba 4\ex4\obj\Debug\net6.0\ex4.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Csharp_Labs\laba 4\ex4\obj\Debug\net6.0\ex4.AssemblyInfoInputs.cache
+C:\github\Csharp_Labs\laba 4\ex4\obj\Debug\net6.0\ex4.AssemblyInfo.cs
+C:\github\Csharp_Labs\laba 4\ex4\obj\Debug\net6.0\ex4.csproj.CoreCompileInputs.cache
+C:\github\Csharp_Labs\laba 4\ex4\bin\Debug\net6.0\ex4.exe
+C:\github\Csharp_Labs\laba 4\ex4\bin\Debug\net6.0\ex4.deps.json
+C:\github\Csharp_Labs\laba 4\ex4\bin\Debug\net6.0\ex4.runtimeconfig.json
+C:\github\Csharp_Labs\laba 4\ex4\bin\Debug\net6.0\ex4.dll
+C:\github\Csharp_Labs\laba 4\ex4\bin\Debug\net6.0\ex4.pdb
+C:\github\Csharp_Labs\laba 4\ex4\obj\Debug\net6.0\ex4.dll
+C:\github\Csharp_Labs\laba 4\ex4\obj\Debug\net6.0\refint\ex4.dll
+C:\github\Csharp_Labs\laba 4\ex4\obj\Debug\net6.0\ex4.pdb
+C:\github\Csharp_Labs\laba 4\ex4\obj\Debug\net6.0\ex4.genruntimeconfig.cache
+C:\github\Csharp_Labs\laba 4\ex4\obj\Debug\net6.0\ref\ex4.dll

@@ -6,9 +6,9 @@
         {
             Console.WriteLine("Введите число: ");
             int num = int.Parse(Console.ReadLine());
-            int LenNumber = (int) Math.Log10(num) + 1;
+        
 
-            if(num > 1 && LenNumber == 5 && num % 10 == 0)
+            if(num >= 10000 && num<=99999 && num % 10 == 0)
             {
                 Console.WriteLine("Число проходит все проверки");
             }

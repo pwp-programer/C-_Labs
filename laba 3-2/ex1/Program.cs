@@ -12,14 +12,14 @@
 
             if (a < b)
             {
-                for (int i = a; i < b; i++) 
+                for (int i = a-1; i < b; i++) 
                 {
                     Console.WriteLine($"Ваше число: {i+1}"); 
                 }
             }
             else if (b < a)
             {
-                for (int q = a; q > b; q--) 
+                for (int q = a+1; q > b; q--) 
                 {
                     Console.WriteLine($"Ваше число: {q-1}"); 
                 }
