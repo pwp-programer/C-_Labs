@@ -1,10 +1,8 @@
-﻿static void Exchange(double a, double b)
+﻿static void Exchange(ref double a, ref double b)
 {
-    double buffer_a = a, buffer_b = b;
-    b = buffer_a;
-    a = buffer_b;
-    Console.WriteLine($"Переменная а: {a}\nПеременная b: {b}");
-    Console.ReadKey();
+    double c = a;
+    a = b;
+    b = c;
 }
 
 Console.WriteLine("Введите значение a: ");
@@ -13,4 +11,7 @@ double a = double.Parse(Console.ReadLine());
 Console.WriteLine("Введите значение b: ");
 double b = double.Parse(Console.ReadLine());
 
-Exchange(a, b);
+
+Exchange(ref a, ref b);
+Console.WriteLine($"a: {a}\nb: {b}");
+Console.ReadKey();

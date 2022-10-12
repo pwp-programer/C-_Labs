@@ -2,13 +2,10 @@
 string inputData = Console.ReadLine();
 string newString = "";
 
-for (int i = 0; i < inputData.Length; i++)
-{
-    if (!(inputData[i] == ' '))
-    {
-        newString += inputData[i];
-    }
-}
 
-Console.WriteLine($"Исходная строка без пробелов: {newString}");
+while (inputData.Contains("  "))
+{ 
+    inputData = inputData.Replace("  "," ");
+}
+Console.WriteLine($"Исходная строка без пробелов: {inputData}");
 Console.ReadKey();

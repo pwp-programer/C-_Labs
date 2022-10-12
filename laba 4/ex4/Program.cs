@@ -1,17 +1,14 @@
-﻿static void Sn(double a, double d, double n)
+﻿static void Sn(double a, double d, double n, out double s)
 {
-    double sum = 0;
+    s = 0;
     for (double i = a; i < n; i++)
     {
-        sum += (i + 1) + d;
+        s += (i + 1) + d;
     }
-
-    Console.WriteLine($"Сумма: {sum}");
-    Console.ReadKey();
 }
 
 
-double a, d, n;
+double a, d, n, s = 1;
 
 Console.WriteLine("Введите a:");
 a = double.Parse(Console.ReadLine());
@@ -20,4 +17,6 @@ d = double.Parse(Console.ReadLine());
 Console.WriteLine("Введите n:");
 n = double.Parse(Console.ReadLine());
 
-Sn(a, d, n);
+Sn(a, d, n, out s);
+Console.WriteLine($"Сумма: {s}");
+Console.ReadKey();
