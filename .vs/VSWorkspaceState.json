@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\laba 2\\ex1",
-    "\\laba 7"
+    "\\laba 10",
+    "\\laba 10\\ex1",
+    "\\laba 10\\ex2",
+    "\\laba 10\\ex3"
   ],
-  "SelectedNode": "\\laba 7\\ex3",
+  "SelectedNode": "\\laba 10\\ex3\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
