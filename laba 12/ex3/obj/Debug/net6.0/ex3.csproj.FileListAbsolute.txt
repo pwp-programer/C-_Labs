@@ -1,0 +1,15 @@
+C:\github\Csharp_Labs\laba 12\ex3\bin\Debug\net6.0\ex3.exe
+C:\github\Csharp_Labs\laba 12\ex3\bin\Debug\net6.0\ex3.deps.json
+C:\github\Csharp_Labs\laba 12\ex3\bin\Debug\net6.0\ex3.runtimeconfig.json
+C:\github\Csharp_Labs\laba 12\ex3\bin\Debug\net6.0\ex3.dll
+C:\github\Csharp_Labs\laba 12\ex3\bin\Debug\net6.0\ex3.pdb
+C:\github\Csharp_Labs\laba 12\ex3\obj\Debug\net6.0\ex3.csproj.AssemblyReference.cache
+C:\github\Csharp_Labs\laba 12\ex3\obj\Debug\net6.0\ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Csharp_Labs\laba 12\ex3\obj\Debug\net6.0\ex3.AssemblyInfoInputs.cache
+C:\github\Csharp_Labs\laba 12\ex3\obj\Debug\net6.0\ex3.AssemblyInfo.cs
+C:\github\Csharp_Labs\laba 12\ex3\obj\Debug\net6.0\ex3.csproj.CoreCompileInputs.cache
+C:\github\Csharp_Labs\laba 12\ex3\obj\Debug\net6.0\ex3.dll
+C:\github\Csharp_Labs\laba 12\ex3\obj\Debug\net6.0\refint\ex3.dll
+C:\github\Csharp_Labs\laba 12\ex3\obj\Debug\net6.0\ex3.pdb
+C:\github\Csharp_Labs\laba 12\ex3\obj\Debug\net6.0\ex3.genruntimeconfig.cache
+C:\github\Csharp_Labs\laba 12\ex3\obj\Debug\net6.0\ref\ex3.dll
