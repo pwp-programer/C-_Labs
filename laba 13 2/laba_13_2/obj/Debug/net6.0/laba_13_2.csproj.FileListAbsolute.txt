@@ -1,0 +1,15 @@
+C:\github\Csharp_Labs\laba 13 2\laba_13_2\bin\Debug\net6.0\laba_13_2.exe
+C:\github\Csharp_Labs\laba 13 2\laba_13_2\bin\Debug\net6.0\laba_13_2.deps.json
+C:\github\Csharp_Labs\laba 13 2\laba_13_2\bin\Debug\net6.0\laba_13_2.runtimeconfig.json
+C:\github\Csharp_Labs\laba 13 2\laba_13_2\bin\Debug\net6.0\laba_13_2.dll
+C:\github\Csharp_Labs\laba 13 2\laba_13_2\bin\Debug\net6.0\laba_13_2.pdb
+C:\github\Csharp_Labs\laba 13 2\laba_13_2\obj\Debug\net6.0\laba_13_2.csproj.AssemblyReference.cache
+C:\github\Csharp_Labs\laba 13 2\laba_13_2\obj\Debug\net6.0\laba_13_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Csharp_Labs\laba 13 2\laba_13_2\obj\Debug\net6.0\laba_13_2.AssemblyInfoInputs.cache
+C:\github\Csharp_Labs\laba 13 2\laba_13_2\obj\Debug\net6.0\laba_13_2.AssemblyInfo.cs
+C:\github\Csharp_Labs\laba 13 2\laba_13_2\obj\Debug\net6.0\laba_13_2.csproj.CoreCompileInputs.cache
+C:\github\Csharp_Labs\laba 13 2\laba_13_2\obj\Debug\net6.0\laba_13_2.dll
+C:\github\Csharp_Labs\laba 13 2\laba_13_2\obj\Debug\net6.0\refint\laba_13_2.dll
+C:\github\Csharp_Labs\laba 13 2\laba_13_2\obj\Debug\net6.0\laba_13_2.pdb
+C:\github\Csharp_Labs\laba 13 2\laba_13_2\obj\Debug\net6.0\laba_13_2.genruntimeconfig.cache
+C:\github\Csharp_Labs\laba 13 2\laba_13_2\obj\Debug\net6.0\ref\laba_13_2.dll
