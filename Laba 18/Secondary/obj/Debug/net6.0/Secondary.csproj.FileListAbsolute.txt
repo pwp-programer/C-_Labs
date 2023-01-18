@@ -1,0 +1,15 @@
+C:\github\Csharp_Labs\Laba 18\Secondary\bin\Debug\net6.0\Secondary.exe
+C:\github\Csharp_Labs\Laba 18\Secondary\bin\Debug\net6.0\Secondary.deps.json
+C:\github\Csharp_Labs\Laba 18\Secondary\bin\Debug\net6.0\Secondary.runtimeconfig.json
+C:\github\Csharp_Labs\Laba 18\Secondary\bin\Debug\net6.0\Secondary.dll
+C:\github\Csharp_Labs\Laba 18\Secondary\bin\Debug\net6.0\Secondary.pdb
+C:\github\Csharp_Labs\Laba 18\Secondary\obj\Debug\net6.0\Secondary.csproj.AssemblyReference.cache
+C:\github\Csharp_Labs\Laba 18\Secondary\obj\Debug\net6.0\Secondary.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Csharp_Labs\Laba 18\Secondary\obj\Debug\net6.0\Secondary.AssemblyInfoInputs.cache
+C:\github\Csharp_Labs\Laba 18\Secondary\obj\Debug\net6.0\Secondary.AssemblyInfo.cs
+C:\github\Csharp_Labs\Laba 18\Secondary\obj\Debug\net6.0\Secondary.csproj.CoreCompileInputs.cache
+C:\github\Csharp_Labs\Laba 18\Secondary\obj\Debug\net6.0\Secondary.dll
+C:\github\Csharp_Labs\Laba 18\Secondary\obj\Debug\net6.0\refint\Secondary.dll
+C:\github\Csharp_Labs\Laba 18\Secondary\obj\Debug\net6.0\Secondary.pdb
+C:\github\Csharp_Labs\Laba 18\Secondary\obj\Debug\net6.0\Secondary.genruntimeconfig.cache
+C:\github\Csharp_Labs\Laba 18\Secondary\obj\Debug\net6.0\ref\Secondary.dll

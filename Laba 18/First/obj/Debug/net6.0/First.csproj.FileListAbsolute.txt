@@ -1,0 +1,15 @@
+C:\github\Csharp_Labs\Laba 18\First\bin\Debug\net6.0\First.exe
+C:\github\Csharp_Labs\Laba 18\First\bin\Debug\net6.0\First.deps.json
+C:\github\Csharp_Labs\Laba 18\First\bin\Debug\net6.0\First.runtimeconfig.json
+C:\github\Csharp_Labs\Laba 18\First\bin\Debug\net6.0\First.dll
+C:\github\Csharp_Labs\Laba 18\First\bin\Debug\net6.0\First.pdb
+C:\github\Csharp_Labs\Laba 18\First\obj\Debug\net6.0\First.csproj.AssemblyReference.cache
+C:\github\Csharp_Labs\Laba 18\First\obj\Debug\net6.0\First.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Csharp_Labs\Laba 18\First\obj\Debug\net6.0\First.AssemblyInfoInputs.cache
+C:\github\Csharp_Labs\Laba 18\First\obj\Debug\net6.0\First.AssemblyInfo.cs
+C:\github\Csharp_Labs\Laba 18\First\obj\Debug\net6.0\First.csproj.CoreCompileInputs.cache
+C:\github\Csharp_Labs\Laba 18\First\obj\Debug\net6.0\First.dll
+C:\github\Csharp_Labs\Laba 18\First\obj\Debug\net6.0\refint\First.dll
+C:\github\Csharp_Labs\Laba 18\First\obj\Debug\net6.0\First.pdb
+C:\github\Csharp_Labs\Laba 18\First\obj\Debug\net6.0\First.genruntimeconfig.cache
+C:\github\Csharp_Labs\Laba 18\First\obj\Debug\net6.0\ref\First.dll
