@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cinema>
+    <film time="10:00" name="Аватар 2" place="43"/>
+    <film time="13:30" name="Аватар 2" place="13"/>
+    <film time="10:00" name="Чебурашка" place="23"/>
+</cinema>

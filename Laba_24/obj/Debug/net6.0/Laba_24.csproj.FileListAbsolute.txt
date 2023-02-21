@@ -1,0 +1,15 @@
+C:\github\Csharp_Labs\Laba_24\bin\Debug\net6.0\Laba_24.exe
+C:\github\Csharp_Labs\Laba_24\bin\Debug\net6.0\Laba_24.deps.json
+C:\github\Csharp_Labs\Laba_24\bin\Debug\net6.0\Laba_24.runtimeconfig.json
+C:\github\Csharp_Labs\Laba_24\bin\Debug\net6.0\Laba_24.dll
+C:\github\Csharp_Labs\Laba_24\bin\Debug\net6.0\Laba_24.pdb
+C:\github\Csharp_Labs\Laba_24\obj\Debug\net6.0\Laba_24.csproj.AssemblyReference.cache
+C:\github\Csharp_Labs\Laba_24\obj\Debug\net6.0\Laba_24.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Csharp_Labs\Laba_24\obj\Debug\net6.0\Laba_24.AssemblyInfoInputs.cache
+C:\github\Csharp_Labs\Laba_24\obj\Debug\net6.0\Laba_24.AssemblyInfo.cs
+C:\github\Csharp_Labs\Laba_24\obj\Debug\net6.0\Laba_24.csproj.CoreCompileInputs.cache
+C:\github\Csharp_Labs\Laba_24\obj\Debug\net6.0\Laba_24.dll
+C:\github\Csharp_Labs\Laba_24\obj\Debug\net6.0\refint\Laba_24.dll
+C:\github\Csharp_Labs\Laba_24\obj\Debug\net6.0\Laba_24.pdb
+C:\github\Csharp_Labs\Laba_24\obj\Debug\net6.0\Laba_24.genruntimeconfig.cache
+C:\github\Csharp_Labs\Laba_24\obj\Debug\net6.0\ref\Laba_24.dll
