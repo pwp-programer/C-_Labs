@@ -1,0 +1,18 @@
+C:\github\Csharp_Labs\Laba 26\bin\Debug\net6.0-windows\Laba 26.exe
+C:\github\Csharp_Labs\Laba 26\bin\Debug\net6.0-windows\Laba 26.deps.json
+C:\github\Csharp_Labs\Laba 26\bin\Debug\net6.0-windows\Laba 26.runtimeconfig.json
+C:\github\Csharp_Labs\Laba 26\bin\Debug\net6.0-windows\Laba 26.dll
+C:\github\Csharp_Labs\Laba 26\bin\Debug\net6.0-windows\Laba 26.pdb
+C:\github\Csharp_Labs\Laba 26\obj\Debug\net6.0-windows\Laba 26.csproj.AssemblyReference.cache
+C:\github\Csharp_Labs\Laba 26\obj\Debug\net6.0-windows\Laba_26.Form1.resources
+C:\github\Csharp_Labs\Laba 26\obj\Debug\net6.0-windows\Laba_26.Form2.resources
+C:\github\Csharp_Labs\Laba 26\obj\Debug\net6.0-windows\Laba 26.csproj.GenerateResource.cache
+C:\github\Csharp_Labs\Laba 26\obj\Debug\net6.0-windows\Laba 26.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Csharp_Labs\Laba 26\obj\Debug\net6.0-windows\Laba 26.AssemblyInfoInputs.cache
+C:\github\Csharp_Labs\Laba 26\obj\Debug\net6.0-windows\Laba 26.AssemblyInfo.cs
+C:\github\Csharp_Labs\Laba 26\obj\Debug\net6.0-windows\Laba 26.csproj.CoreCompileInputs.cache
+C:\github\Csharp_Labs\Laba 26\obj\Debug\net6.0-windows\Laba 26.dll
+C:\github\Csharp_Labs\Laba 26\obj\Debug\net6.0-windows\refint\Laba 26.dll
+C:\github\Csharp_Labs\Laba 26\obj\Debug\net6.0-windows\Laba 26.pdb
+C:\github\Csharp_Labs\Laba 26\obj\Debug\net6.0-windows\Laba 26.genruntimeconfig.cache
+C:\github\Csharp_Labs\Laba 26\obj\Debug\net6.0-windows\ref\Laba 26.dll

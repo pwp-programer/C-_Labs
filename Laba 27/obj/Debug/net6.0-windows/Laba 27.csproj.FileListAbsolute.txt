@@ -1,0 +1,17 @@
+C:\github\Csharp_Labs\Laba 27\bin\Debug\net6.0-windows\Laba 27.exe
+C:\github\Csharp_Labs\Laba 27\bin\Debug\net6.0-windows\Laba 27.deps.json
+C:\github\Csharp_Labs\Laba 27\bin\Debug\net6.0-windows\Laba 27.runtimeconfig.json
+C:\github\Csharp_Labs\Laba 27\bin\Debug\net6.0-windows\Laba 27.dll
+C:\github\Csharp_Labs\Laba 27\bin\Debug\net6.0-windows\Laba 27.pdb
+C:\github\Csharp_Labs\Laba 27\obj\Debug\net6.0-windows\Laba 27.csproj.AssemblyReference.cache
+C:\github\Csharp_Labs\Laba 27\obj\Debug\net6.0-windows\Laba_27.Form1.resources
+C:\github\Csharp_Labs\Laba 27\obj\Debug\net6.0-windows\Laba 27.csproj.GenerateResource.cache
+C:\github\Csharp_Labs\Laba 27\obj\Debug\net6.0-windows\Laba 27.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Csharp_Labs\Laba 27\obj\Debug\net6.0-windows\Laba 27.AssemblyInfoInputs.cache
+C:\github\Csharp_Labs\Laba 27\obj\Debug\net6.0-windows\Laba 27.AssemblyInfo.cs
+C:\github\Csharp_Labs\Laba 27\obj\Debug\net6.0-windows\Laba 27.csproj.CoreCompileInputs.cache
+C:\github\Csharp_Labs\Laba 27\obj\Debug\net6.0-windows\Laba 27.dll
+C:\github\Csharp_Labs\Laba 27\obj\Debug\net6.0-windows\refint\Laba 27.dll
+C:\github\Csharp_Labs\Laba 27\obj\Debug\net6.0-windows\Laba 27.pdb
+C:\github\Csharp_Labs\Laba 27\obj\Debug\net6.0-windows\Laba 27.genruntimeconfig.cache
+C:\github\Csharp_Labs\Laba 27\obj\Debug\net6.0-windows\ref\Laba 27.dll
