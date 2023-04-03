@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+    <user>
+        <login>123</login>
+        <password>123</password>
+    </user>
+    <user>
+        <login>kolbasa</login>
+        <password>123</password>
+    </user>
+    <user>
+        <login>sosiska</login>
+        <password>123</password>
+    </user>
+    <user>
+        <login>pelmen</login>
+        <password>123</password>
+    </user>
+</users>

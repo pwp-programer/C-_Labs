@@ -1,0 +1,11 @@
+C:\github\Csharp_Labs\Laba 31\Laba 31\bin\Debug\Laba_31.exe.config
+C:\github\Csharp_Labs\Laba 31\Laba 31\bin\Debug\Laba_31.exe
+C:\github\Csharp_Labs\Laba 31\Laba 31\bin\Debug\Laba_31.pdb
+C:\github\Csharp_Labs\Laba 31\Laba 31\obj\Debug\Laba 31.csproj.AssemblyReference.cache
+C:\github\Csharp_Labs\Laba 31\Laba 31\obj\Debug\Laba 31.csproj.SuggestedBindingRedirects.cache
+C:\github\Csharp_Labs\Laba 31\Laba 31\obj\Debug\Laba_31.Properties.Resources.resources
+C:\github\Csharp_Labs\Laba 31\Laba 31\obj\Debug\Laba 31.csproj.GenerateResource.cache
+C:\github\Csharp_Labs\Laba 31\Laba 31\obj\Debug\Laba 31.csproj.CoreCompileInputs.cache
+C:\github\Csharp_Labs\Laba 31\Laba 31\obj\Debug\Laba_31.exe
+C:\github\Csharp_Labs\Laba 31\Laba 31\obj\Debug\Laba_31.pdb
+C:\github\Csharp_Labs\Laba 31\Laba 31\obj\Debug\Laba_31.Form1.resources

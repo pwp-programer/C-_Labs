@@ -15,3 +15,5 @@ C:\github\Csharp_Labs\Laba 27\obj\Debug\net6.0-windows\refint\Laba 27.dll
 C:\github\Csharp_Labs\Laba 27\obj\Debug\net6.0-windows\Laba 27.pdb
 C:\github\Csharp_Labs\Laba 27\obj\Debug\net6.0-windows\Laba 27.genruntimeconfig.cache
 C:\github\Csharp_Labs\Laba 27\obj\Debug\net6.0-windows\ref\Laba 27.dll
+C:\github\Csharp_Labs\Laba 27\obj\Debug\net6.0-windows\Laba_27.Form2.resources
+C:\github\Csharp_Labs\Laba 27\obj\Debug\net6.0-windows\Laba_27.Form3.resources

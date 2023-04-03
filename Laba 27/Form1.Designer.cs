@@ -78,12 +78,14 @@
             this.задание2ToolStripMenuItem.Name = "задание2ToolStripMenuItem";
             this.задание2ToolStripMenuItem.Size = new System.Drawing.Size(95, 25);
             this.задание2ToolStripMenuItem.Text = "Задание 2";
+            this.задание2ToolStripMenuItem.Click += new System.EventHandler(this.задание2ToolStripMenuItem_Click);
             // 
             // задание3ToolStripMenuItem
             // 
             this.задание3ToolStripMenuItem.Name = "задание3ToolStripMenuItem";
             this.задание3ToolStripMenuItem.Size = new System.Drawing.Size(95, 25);
             this.задание3ToolStripMenuItem.Text = "Задание 3";
+            this.задание3ToolStripMenuItem.Click += new System.EventHandler(this.задание3ToolStripMenuItem_Click);
             // 
             // label1
             // 

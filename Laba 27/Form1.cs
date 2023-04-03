@@ -69,7 +69,7 @@ namespace Laba_27
                 int Num1 = int.Parse(textBox1.Text);
                 int Num2 = int.Parse(textBox2.Text);
 
-                label4.Text = (Num1 / Num2).ToString();
+                label4.Text = (1.0 * Num1 / Num2).ToString();
             }
             catch (System.FormatException)
             {
@@ -90,6 +90,22 @@ namespace Laba_27
         private void Ê∏ÎÚ˚ÈToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.BackColor = System.Drawing.Color.Yellow;
+        }
+
+        private void Á‡‰‡ÌËÂ2ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form2 f = new Form2();
+            f.Location = new Point(this.Location.X, this.Location.Y);
+            f.Show();
+            this.Hide();
+        }
+
+        private void Á‡‰‡ÌËÂ3ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form3 f = new Form3();
+            f.Location = new Point(this.Location.X, this.Location.Y);
+            f.Show();
+            this.Hide();
         }
     }
 }
